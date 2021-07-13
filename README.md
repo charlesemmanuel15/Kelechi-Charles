@@ -1,6 +1,5 @@
 
 public class About extends Me {
-
   public static void main(String[] args) {
   
      String reason = "Seek to work in a settings that will dare me extra...\n 
@@ -18,9 +17,9 @@ public class About extends Me {
   }   
 	  private static void printAllCodes(String[] codes, String alert) {
 		  for(String code : codes) {
-				System.out.println(code);
-			}
-			System.out.println(alert);	
+		      System.out.println(code);
+		  }
+		  System.out.println(alert);	
 	 }
 }
 
