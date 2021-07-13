@@ -3,8 +3,8 @@ public class About extends Me {
 
    public static void main(String[] args) {
   
-       String reason = "Seek to work in a settings that will dare me extra...\n 
-       and at the same time as allowing me to add to the sustained...\n
+       String reason = "Seek to work in a settings that will dare me extra... 
+       and at the same time as allowing me to add to the sustained...
        enlargement and achievment of the organization..";
      
        String[] codes = {"Java", "HTML", "CSS", "Thymleaf", "Javascript", "React"};
