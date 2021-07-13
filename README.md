@@ -15,13 +15,16 @@ public class About extends Me {
 	 Stream.of(architecture)
               .forEach(name ->System.out.printf("%s ", name));    
 	     printAllCodes(codes, reason); 
+	     
    }   
 	  private static void printAllCodes(String[] codes, String alert) {
 		  for(String code : codes) {
 		      System.out.println(code);
 		  }
-		  System.out.println(alert);	
+		  System.out.println(alert);
+		  
 	  }
+	  
 }
 
 
