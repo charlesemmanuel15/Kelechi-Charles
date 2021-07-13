@@ -1,8 +1,9 @@
 #More about me...
-package com.codewithkelechicharles;
 
 public class About extends Me {
+
 	  public static void main(String[] args) {
+	  
 		String reason = "Seek to work in a settings that will dare me extra...\n 
     and at the same time as allowing me to add to the sustained...\n
     enlargement and achievment of the organization..";
