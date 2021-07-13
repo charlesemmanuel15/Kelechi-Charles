@@ -1,5 +1,6 @@
 
 public class About extends Me {
+
   public static void main(String[] args) {
   
      String reason = "Seek to work in a settings that will dare me extra...\n 
